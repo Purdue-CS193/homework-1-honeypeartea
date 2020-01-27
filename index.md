@@ -1,3 +1,5 @@
+# Minghao Xue's First CS193 Homework
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -16,6 +18,8 @@ Syntax highlighted code block
 - Bulleted
 - List
 - Test
+- Learning new knowleage
+- Gain CS credit
 
 1. Numbered
 2. List
